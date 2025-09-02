@@ -1,2 +1,2 @@
 # fokus-projeto
-aula alura
+Aula alura, projeto fokus do curso.
